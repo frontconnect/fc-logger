@@ -1,7 +1,7 @@
 {
-  "name": "fc-typescript",
+  "name": "fc-logger",
   "version": "1.0.0",
-  "description": "Boilerplate for Typescript based projects",
+  "description": "Logger",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,8 @@
     "boilerplate",
     "typescript",
     "npm",
-    "eslint"
+    "eslint",
+    "logger"
   ],
   "author": "Front Connect",
   "license": "ISC",
