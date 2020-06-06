@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+  },
   "keywords": [
     "boilerplate",
-    "lerna",
     "npm"
   ],
   "author": "Front Connect",
