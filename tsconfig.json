@@ -1,7 +1,10 @@
 {
   "compilerOptions": {
+    "experimentalDecorators": true,
     "module": "esnext",
+    "strict": true,
     "noImplicitAny": false,
+    "moduleResolution": "node",
     "sourceMap": true,
     "removeComments": true,
     "preserveConstEnums": true,
@@ -28,7 +31,8 @@
   ],
   "compileOnSave": true,
   "include": [
-    "./**/**/*.ts"
+    "*.ts",
+    "src"
   ],
   "exclude": [
     "node_modules",
