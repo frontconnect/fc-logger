@@ -2,16 +2,24 @@
   "name": "fc-base",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint . --ext .ts"
   },
   "keywords": [
     "boilerplate",
+    "typescript",
     "npm"
   ],
   "author": "Front Connect",
   "license": "ISC",
   "devDependencies": {
-    "lerna": "^3.20.2"
+    "@typescript-eslint/eslint-plugin": "^3.1.0",
+    "@typescript-eslint/parser": "^3.1.0",
+    "eslint": "^7.2.0"
+  },
+  "dependencies": {
+    "typescript": "^3.9.5"
   }
 }
