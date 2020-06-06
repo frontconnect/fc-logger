@@ -1,0 +1,17 @@
+{
+  "name": "fc-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "boilerplate",
+    "lerna",
+    "npm"
+  ],
+  "author": "Front Connect",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
